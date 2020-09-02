@@ -9,6 +9,7 @@
       "email": "dung199551@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {},
   "autoload": {
     "psr-4": {
