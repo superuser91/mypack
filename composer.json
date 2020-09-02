@@ -1,0 +1,19 @@
+{
+  "name": "superuser91/mypack",
+  "description": "hello world packagist",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dungnt",
+      "email": "dung199551@gmail.com"
+    }
+  ],
+  "minimum-stability": "beta",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Dpack\\": "src/"
+    }
+  }
+}
